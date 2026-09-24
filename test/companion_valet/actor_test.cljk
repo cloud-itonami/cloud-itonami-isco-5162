@@ -1,5 +1,5 @@
 (ns companion-valet.actor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [companion-valet.actor :as actor]
             [companion-valet.store :as store]))
 
